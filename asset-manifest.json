@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vsb/static/css/main.29f93ca6.css",
+    "main.js": "/vsb/static/js/main.0f8c423f.js",
+    "static/media/placement offers.jpg": "/vsb/static/media/placement offers.72c091e9ebaccd622c0d.jpg",
+    "static/media/our_recruters-removebg-preview.png": "/vsb/static/media/our_recruters-removebg-preview.e834b53641b1edf95450.png",
+    "static/media/vector-contact-us-background-removebg-preview.png": "/vsb/static/media/vector-contact-us-background-removebg-preview.04d0a5bcf60600ffa1d3.png",
+    "static/media/newVSb-removebg-preview.png": "/vsb/static/media/newVSb-removebg-preview.7ca6b4b41c7f49c819ce.png",
+    "static/media/logo-footer.png": "/vsb/static/media/logo-footer.a95f5d8e3294a7317f62.png",
+    "index.html": "/vsb/index.html",
+    "main.29f93ca6.css.map": "/vsb/static/css/main.29f93ca6.css.map",
+    "main.0f8c423f.js.map": "/vsb/static/js/main.0f8c423f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f93ca6.css",
+    "static/js/main.0f8c423f.js"
+  ]
+}
